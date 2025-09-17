@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Civic Issue Resolution System",
+  "description": "A platform for citizens to report civic issues. This application uses AI to automatically categorize and prioritize submissions, streamlining the process for both citizens and local authorities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
